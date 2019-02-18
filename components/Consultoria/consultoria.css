@@ -1,0 +1,31 @@
+.titulo{
+    font: bold;
+    font-style: "Great+Vibes";
+    font-size: 55px;
+    height: 100px;
+}
+
+.encabezado{
+    height:100px;
+
+}
+
+.cons{
+    text-align: right;
+    color: black;
+}
+
+.monograma{
+    color:black;
+    font-family: "Tangerine", cursive;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.pic{
+    width:100%;
+}
+
+.correo{
+    color:blue;
+}

@@ -1,0 +1,27 @@
+.titulo{
+    font: bold;
+    font-style: "Great+Vibes";
+    font-size: 55px;
+    height: 100px;
+}
+
+.encabezado{
+    height:100px;
+
+}
+
+.explicacion{
+    padding: 40px;
+    margin-top: 50px;
+    font-size: 35px;
+    font-family: "Tangerine", cursive;
+    text-align: center;
+    height: 100px;
+}
+
+.monograma{
+    color:black;
+    font-family: "Tangerine", cursive;
+    font-weight: bolder;
+    font-size: 30px;
+}
